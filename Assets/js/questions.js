@@ -1,35 +1,41 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: "Commonly used data types DO NOT include:",
-    choices: ["strings", "booleans", "alerts", "numbers"],
-    answer: "alerts"
+    title: "What is the name of Liz Lemon's pilot boyfriend?",
+    choices: ["Wesley Snipes", "Carol Burnett", "Floyd DeBarber", "John Lutz"],
+    answer: 2
   },
   {
-    title: "The condition in an if / else statement is enclosed within ____.",
-    choices: ["quotes", "curly brackets", "parentheses", "square brackets"],
-    answer: "parentheses"
-  },
-  {
-    title: "Arrays in JavaScript can be used to store ____.",
+    title: "Kenneth only loves two things in this world. What are they?",
     choices: [
-      "numbers and strings",
-      "other arrays",
-      "booleans",
-      "all of the above"
+      "Grizz and DotCom", 
+      "Everybody and television", 
+      "NBC and CBS", 
+      "His mother and her friend Ron"],
+    answer: 1
+  },
+  {
+    title: "Where is Jenna Maroney from?",
+    choices: [
+      "Tampa, Florida",
+      "Des Moines, Iowa",
+      "Walla Walla, Washington",
+      "London, England"
     ],
-    answer: "all of the above"
+    answer: 0
   },
   {
-    title:
-      "String values must be enclosed within ____ when being assigned to variables.",
-    choices: ["commas", "curly brackets", "quotes", "parentheses"],
-    answer: "quotes"
+    title: "What is the title of the movie for which Tracy wins an Oscar?",
+    choices: [
+      "Samurai I Am-urai", 
+      "Hard to Watch: Based on the Novel 'Stone Cold Bummer' by Manipulate", 
+      "President Homeboy", 
+      "Death Bank"],
+    answer: 1
   },
   {
-    title:
-      "A very useful tool used during development and debugging for printing content to the debugger is:",
-    choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
-    answer: "console.log"
+    title: "Jenna is cast in a Janis Joplin biopic, but when the studio is unable to secure Janis Joplin's life rights, the main character's name is changed to:",
+    choices: ["Janet Jackson", "Janie Jimplin", "Jeannie Jorgensen", "Jackie Jormp-Jomp"],
+    answer: 3
   }
 ];

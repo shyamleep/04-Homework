@@ -6,8 +6,8 @@ As you proceed in your career as a web developer, you will probably be asked to 
 
 ```
 AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+I WANT to program a timed quiz that stores high scores
+SO THAT I can practice my JavaScript skills
 ```
 
 ## Acceptance Criteria
